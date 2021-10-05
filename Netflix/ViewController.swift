@@ -30,6 +30,6 @@ class ViewController: UIViewController {
     }
     
     //액션함수가 들어가는 곳
-    
+    //git Commit Test
 }
 
